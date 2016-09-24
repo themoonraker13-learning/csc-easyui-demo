@@ -1,2 +1,2 @@
-# cscEasyUIDemo
-Country, State, City ComboBox with EasyUI auto complete feature
+# csc-easyui-demo
+Implementation of Country, State, City ComboBox using EasyUI auto-complete feature
